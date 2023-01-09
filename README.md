@@ -1,1 +1,2 @@
-# find_text
+# find_text 
+in .png/jpg
